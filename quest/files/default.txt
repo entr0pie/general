@@ -1,0 +1,16 @@
+[[DEFAULT]]
+Matemática A
+Matemática B
+Física A
+Física B
+Química 
+Biologia
+História
+Geografia
+Filosofia
+Sociologia
+Literatura
+Artes
+Educação Física
+Português
+Inglês 

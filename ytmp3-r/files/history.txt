@@ -1,0 +1,16 @@
+
+name 1 
+name 2 
+name 3
+[playlist]
+[l]
+a
+b
+c
+[[playlist]]
+num 1 
+num 2 
+
+[[playlist]]
+num1
+num2
